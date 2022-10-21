@@ -47,6 +47,3 @@ if __name__ == '__main__':
 
     get_dict(db_path)
     get_row(db_path)
-
-
-# https://www.psycopg.org/docs/extras.html
